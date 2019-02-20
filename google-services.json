@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "568832752218",
+    "firebase_url": "https://sekar-230704.firebaseio.com",
+    "project_id": "sekar-230704",
+    "storage_bucket": "sekar-230704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568832752218:android:5473fc23c2a44fb6",
+        "android_client_info": {
+          "package_name": "com.moc.sekarlangit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568832752218-9qbumgm2lkcfdhkvp7m9btqagkprv9u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTRRFAGhMNaQqHD5oK8j3vBiz94e2Uso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
